@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:05-05+2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -141,7 +141,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
+![alt text](<Screenshot (72).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
